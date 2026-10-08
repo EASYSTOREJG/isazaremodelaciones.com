@@ -1,0 +1,11 @@
+{
+  "name": "Remix Isaza Remodelaciones — Módulo de Visitas Técnicas",
+  "description": "Herramienta profesional mobile-first de campo y gestión comercial para visitas técnicas, levantamiento de medidas, diagnóstico constructivo y generación de cotizaciones de Isaza Remodelaciones y Acabados.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
